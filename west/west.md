@@ -34,9 +34,9 @@
 
 参考游记： http://www.mafengwo.cn/wenda/detail-8450283.html 
 
- 推荐游点：半月湾Half Moon Bay；蒙特雷Monterrey；17英里-17 miles drive——Pacific Grove Gate（入）Carmel Gate（出）；卡梅尔小镇Carmel；大苏尔路段Big Sur（Pfeiffer Falls、Pfeiffer beach，加州1号风景最美最壮观的一段路，弯多路陡，车速开不快的）；
+推荐游点：半月湾Half Moon Bay；蒙特雷Monterrey；17英里-17 miles drive——Pacific Grove Gate（入）Carmel Gate（出）；卡梅尔小镇Carmel；大苏尔路段Big Sur（Pfeiffer Falls、Pfeiffer beach，加州1号风景最美最壮观的一段路，弯多路陡，车速开不快的）；
 
- 莫罗湾Morro Bay， 丹麦村Solvang，  圣巴巴拉Santa Barbara， 圣莫尼卡 Santa Monica
+莫罗湾Morro Bay， 丹麦村Solvang，  圣巴巴拉Santa Barbara， 圣莫尼卡 Santa Monica
 
 鸽点灯塔、Sam simeon（赫氏古堡）、坎布里亚
 
@@ -60,15 +60,13 @@
 
 大峡谷官网：https://www.nps.gov/grca/index.htm
 
-北部：2018.5.15后才开放。
-
 中文的：http://bbs.qyer.com/thread-765035-1.html
 
 游览点：
 
 Mather Point(位处于大峡谷南缘的马瑟点是峡谷内的最著名景点之一。从马瑟点眺望峡谷，视野极为宽广，将大峡谷壮观秀丽的景致尽收眼底。)
 
- Yaki point ：最佳日落观景点
+Yaki point ：最佳日落观景点
 
 Hopi point：这里是欣赏日出的观景点
 
@@ -134,7 +132,7 @@ LA:			10号（晚）
 
 ## TODO
 
-airbnb，交通规则熟悉C，outlet优惠信息，1号公路路况C，6个泡面C，老干妈C，手机卡，换美金
+9号酒店，1号2号airbnb，交通规则熟悉C，outlet优惠信息，1号公路路况C，6个泡面C，老干妈C，手机卡，换美金
 
 打印：
 
