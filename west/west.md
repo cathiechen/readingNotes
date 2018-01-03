@@ -92,8 +92,6 @@ Desert View:从大峡谷东侧入园的第一个景点
 
 羚羊谷订票： www.antelopeslotcanyon.com
 
-我们订的11:30的团，因为听说11:30-1:00的团可以看到“上帝之光”，就是光柱可以照到羚羊谷里面。
-
 游记：http://www.mafengwo.cn/i/5524293.html
 
 Horseshoe Bend Observation Area（马蹄湾）：
@@ -110,7 +108,7 @@ Upper Antelope Canyon（上羚羊谷）：
 
 10号下午：回LA
 
-![10](LV2LA_10.PNG)
+![10](./LV2LA_10.PNG)
 
 ## 路线
 
