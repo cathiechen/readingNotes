@@ -108,7 +108,7 @@ Upper Antelope Canyon（上羚羊谷）：
 
 10号下午：回LA
 
-![10](./LV2LA_10.PNG)
+![10](./LV2LA_10.png)
 
 ## 路线
 
