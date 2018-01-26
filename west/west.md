@@ -102,7 +102,7 @@ Upper Antelope Canyon（上羚羊谷）：
 
 ## LV
 
-8号入住：Hampton Inn Tropicana
+8号入住：Tropicana Las Vegas - a DoubleTree by Hilton Hotel
 
 9号：随便逛逛，买买买！！！
 
